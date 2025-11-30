@@ -13,13 +13,31 @@ TELEGRAM_BOT_TOKEN = "7669729694:AAGEqOJUevQW3ZfDZzCswsfO791bD0RHwHk"
 OPENWEATHERMAP_API_KEY = "c44a8a089d4f828cd6c46ad0b8a1747f"
 
 AVAILABLE_CITIES = {
+  "cities_ua": {
     "kyiv": "Київ",
-    "lviv": "Львів",
-    "odesa": "Одеса",
     "kharkiv": "Харків",
+    "odesa": "Одеса",
     "dnipro": "Дніпро",
+    "lviv": "Львів",
     "zaporizhzhia": "Запоріжжя",
+    "vinnytsia": "Вінниця",
+    "kherson": "Херсон",
+    "poltava": "Полтава",
+    "chernihiv": "Чернігів",
+    "cherkasy": "Черкаси",
+    "zhytomyr": "Житомир",
+    "sumy": "Суми",
+    "rivne": "Рівне",
     "ivano-frankivsk": "Івано-Франківськ",
+    "ternopil": "Тернопіль",
+    "lutsk": "Луцьк",
+    "uzhhorod": "Ужгород",
+    "chernivtsi": "Чернівці",
+    "khmelnytskyi": "Хмельницький",
+    "mykolaiv": "Миколаїв",
+    "kropyvnytskyi": "Кропивницький",
+    "simferopol": "Сімферополь"
+  }
 }
 DEFAULT_CITY_KEY = "kyiv"
 USERS_DATA_FILE = "user_cities.json"
