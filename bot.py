@@ -23,7 +23,7 @@ AVAILABLE_CITIES = {
 }
 DEFAULT_CITY_KEY = "kyiv"
 USERS_DATA_FILE = "user_cities.json"
-INTERVAL_SECONDS = 3
+INTERVAL_SECONDS = 1800
 
 # Головна клавіатура (Reply Keyboard) для основних дій
 MAIN_KEYBOARD = ReplyKeyboardMarkup(
