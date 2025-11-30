@@ -14,7 +14,7 @@ TARGET_CHAT_ID = "1060933896"
 # Місто для запиту
 CITY = "Kyiv,UA"
 # Інтервал у секундах (30 хвилин = 1800 секунд)
-INTERVAL_SECONDS = 1800
+INTERVAL_SECONDS = 10
 
 # Налаштування логування
 logging.basicConfig(
